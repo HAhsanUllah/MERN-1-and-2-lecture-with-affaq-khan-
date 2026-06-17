@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+h1{
+    color :green;
+}
+
+.heading-1{
+    color :red;
+    font-weight :200;
+    font-size: 50px;
+}
+
+.para-1 {
+    color :blue;
+    font-size: 20px;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+}
+
+.heading-2{
+    color :orange;
+    font-size: 40px;
+}
+
+#para-2 {
+    color :rgb(112, 97, 139);
+    font-size: 30px;
+}
+
+.div-1{
+    border-left: 5px dotted red;
+    /* border : 2px solid green ; */
+    margin : 20px;
+    padding :40px;
+}
+
+.span-1{
+    background-color: yellow;
+    color :black;
+}
+
+.div-2{
+    background-color: #ffccdd;
+    color :black;
+}
+
+/* color combinations 
+255! (255 ka factorial)
+rgb (r goes from 0 to 255, g goes from 0 to 255, b goes from 0 to 255)
+hex codes (#ffccdd)
+
+*/
